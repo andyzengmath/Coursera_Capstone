@@ -61,7 +61,7 @@ The data retrieved from Foursquare contained information of venues within a spec
 7. Venue Longitude
 8. Venue Category
 
-##Extracting the data
+## Extracting the data
 
 I first read data through JSON file and create a datafram, then got Latitude and Longitude data of these neighborhoods via  Geocoder package. Finally I used Foursquare API to get venue data related to these neighborhoods.
 
